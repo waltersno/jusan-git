@@ -1,6 +1,6 @@
 # stepik-id-printer (h1) 
 Это проект для вывода моего персонального идентификатора на *образовательной платформе*  `stepik.org`
-![Jusan logo](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/ "Jusan logo")
+![Jusan logo](./jusan.png "Jusan logo")
 ## Возможности (h2)
 Данный проект имеет следующий функционал.
 - Выводит в *stdout* уникальный идентификатор.
